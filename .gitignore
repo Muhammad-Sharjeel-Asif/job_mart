@@ -1,0 +1,23 @@
+notes_code
+notes_code/
+
+backend.zip
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Secrets
+.env
+
+# Tool caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
